@@ -1,0 +1,17 @@
+{
+    "shape": [
+        8784,
+        8
+    ],
+    "columns": [
+        "Date/Time",
+        "Temp_C",
+        "Dew Point Temp_C",
+        "Rel Hum_%",
+        "Wind Speed_km/h",
+        "Visibility_km",
+        "Press_kPa",
+        "Weather"
+    ],
+    "load_time": "2025-10-07 00:58:22"
+}
