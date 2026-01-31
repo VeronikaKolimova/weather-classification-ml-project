@@ -1,7 +1,10 @@
-# weather-classification-ml-project-
+# Weather Classification ML Project
 Machine learning project for binary classification of weather conditions (precipitation/no precipitation) based on historical meteorological data. Solves the problem of precipitation forecasting using various classification algorithms.
 
-# Weather Classification ML Project
+## Quick Start
+To explore the full analysis interactively, open the notebook in your browser:
+[![Open in NBViewer](https://img.shields.io/badge/Open%20in-NBViewer-orange?logo=jupyter&logoColor=orange)](https://nbviewer.org/github/VeronikaKolimova/weather-classification-ml-project/blob/main/Lab02_release2.ipynb
+)
 
 ##  Описание проекта
 Проект машинного обучения для бинарной классификации погодных условий (осадки/без осадков) на основе исторических метеорологических данных. Решает задачу прогнозирования осадков с использованием различных алгоритмов классификации.
